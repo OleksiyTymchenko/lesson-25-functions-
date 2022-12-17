@@ -16,5 +16,5 @@ function divider(number) {
     }
 
 }
-divider(28);
+divider(1000);
 
